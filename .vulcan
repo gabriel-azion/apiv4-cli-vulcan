@@ -1,0 +1,5 @@
+preset=javascript
+entry=main.js
+mode=compute
+useNodePolyfills=true
+useOwnWorker=true
