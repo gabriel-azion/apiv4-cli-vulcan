@@ -1,9 +1,10 @@
 {
   "name": "energetic_fantasy",
+  "bucket": "",
   "template": "javascript",
   "mode": "compute",
   "env": "production",
-  "version-id": "20240108170502",
+  "prefix": "20240129145448",
   "project-root": "/Users/gabriel.franca/cli-static/energetic_fantasy",
   "function": {
     "id": 0,
@@ -23,7 +24,8 @@
     "purge_on_publish": true
   },
   "origin": {
-    "id": 0,
+    "single-origin-id": 0,
+    "storage-origin-id": 0,
     "name": "__DEFAULT__",
     "address": null
   }

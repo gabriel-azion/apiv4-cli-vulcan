@@ -3,3 +3,4 @@ entry=main.js
 mode=compute
 useNodePolyfills=true
 useOwnWorker=true
+builder=webpack
